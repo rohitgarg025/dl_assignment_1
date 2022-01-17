@@ -1,1 +1,1 @@
-# dl_assignment_1
+# Deep Learning [CS F425] Assignment 1
